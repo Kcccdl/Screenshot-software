@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEh73L2ttZ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zzzzz\\Desktop\\AI\\claudecode\\mimo\\JIETU\\src\\ScreenCapture\\ScreenCapture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.26\\microsoft.net.illink.tasks.8.0.26.nupkg.sha512",
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.26\\microsoft.netcore.app.runtime.win-x64.8.0.26.nupkg.sha512",
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.26\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.26.nupkg.sha512",
+    "C:\\Users\\Zzzzz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.26\\microsoft.aspnetcore.app.runtime.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

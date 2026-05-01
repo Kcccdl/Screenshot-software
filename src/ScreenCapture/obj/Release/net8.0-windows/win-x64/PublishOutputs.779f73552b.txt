@@ -1,0 +1,7 @@
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\截图工具.pdb
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\PenImc_cor3.dll
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\PresentationNative_cor3.dll
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\vcruntime140_cor3.dll
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\wpfgfx_cor3.dll
+C:\Users\Zzzzz\Desktop\AI\claudecode\mimo\JIETU\src\ScreenCapture\bin\Release\net8.0-windows\publish\win-x64\截图工具.exe
